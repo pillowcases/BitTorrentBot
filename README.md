@@ -4,7 +4,7 @@
 
 
 
-Installation
+#Installation
 * Clone git
 
  Change these throughout the code with your own
@@ -21,3 +21,12 @@ npm install
 node index
 ```
 * Message the bot on Telegram
+
+# Commands
+
+* /yify (term) - searches on yify for a search term
+* /pb (term) - searches on TPB for a search term 
+* /add (magnet) - adds magnet to torrent client
+* /hash - gets all current torrent hashes in BitTorrent
+* /remove (hash) - removes that torrent from BitTorrent
+* /status - gets all torrents download status
