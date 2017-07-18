@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = '445349598:AAGtQPAJTBypQtD9TWnocOseuWHUOlJZ-Sw';
+const token = 'REPLACE WITH YOUR OWN';
 const telegram = new TelegramBot(token, {polling: true});
 const UTorrent = require('library-utorrent');
 const query = require('yify-search').search;
