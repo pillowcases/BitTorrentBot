@@ -1,5 +1,5 @@
 # This is a bot to add magnet torrents to your BitTorrent client from Telegram.
-# Legal use only
+* Legal use only
 
 
 
